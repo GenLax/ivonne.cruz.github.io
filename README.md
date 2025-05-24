@@ -14,7 +14,7 @@ I'm a recent MIS graduate with hands-on experience in:
 📍 Based in San Diego, CA  
 💬 Bilingual: English and Spanish
 
-📄 [Download My Resume](Resume.pdf)
+📄 [Download My Resume](ResumeCruzCuevas.pdf)
 
 ---
 

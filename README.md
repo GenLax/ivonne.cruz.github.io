@@ -25,4 +25,4 @@ Created a relational DB and dashboard to show user trends and churn.
 
 ---
 
-[Email Me](mailto:ivonne.cruzc1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/ivonnecruz)
+[Email Me](mailto:ivonne.cruzc1@gmail.com) | [LinkedIn](www.linkedin.com/in/ivonne-cruz-cuevas-3693a5263) | [GitHub](https://github.com/GenLax)
